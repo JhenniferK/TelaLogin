@@ -11,21 +11,11 @@ Este é um projeto simples de uma tela de login com validação de formulário u
 
 ## Como Usar
 
-1. **Clone o repositório** para o seu computador:
+1. Acesse: jhenniferk.github.io/TelaLogin/
 
-   ```bash
-   git clone https://github.com/JhenniferK/TelaLogin.git
+2. Preencha os campos de e-mail e senha.
 
-2. Acesse a pasta login-app:
-
-   ```bash
-   cd TelaLogin/login-app
-
-3. Abra o arquivo **index.html** no seu navegador.
-
-4. Preencha os campos de e-mail e senha.
-
-5. Clique no botão Entrar.
+3. Clique no botão Entrar.
 
 Se os campos forem válidos, uma mensagem de sucesso será exibida. Caso contrário, uma mensagem de erro será mostrada.
 
@@ -44,3 +34,8 @@ TelaLogin/
 - **HTML:** Estrutura da página.
 - **CSS:** Estilos para a página de login.
 - **JavaScript:** Lógica de validação do formulário.
+
+---
+
+🖤 **Obrigada por visitar este repositório!**
+
