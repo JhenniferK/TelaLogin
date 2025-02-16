@@ -11,7 +11,7 @@ Este é um projeto simples de uma tela de login com validação de formulário u
 
 ## Como Usar
 
-1. Acesse: jhenniferk.github.io/TelaLogin/
+1. [Clique aqui](jhenniferk.github.io/TelaLogin/)
 
 2. Preencha os campos de e-mail e senha.
 
