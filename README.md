@@ -1,6 +1,6 @@
 # Tela de Login
 
-Este é um projeto simples de uma tela de login com validação de formulário utilizando HTML, CSS e JavaScript. O objetivo é criar uma interface de login onde o usuário insere seu e-mail e senha. O formulário realiza validações para garantir que o e-mail tenha um formato válido e que a senha tenha pelo menos 6 caracteres.
+Bem vindo(a)! Este é um projeto simples de uma tela de login com validação de formulário utilizando HTML, CSS e JavaScript. O objetivo é criar uma interface de login onde o usuário insere seu e-mail e senha. O formulário realiza validações para garantir que o e-mail tenha um formato válido e que a senha tenha pelo menos 6 caracteres.
 
 ## Funcionalidades
 
